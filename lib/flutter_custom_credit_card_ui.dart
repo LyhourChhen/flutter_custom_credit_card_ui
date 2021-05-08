@@ -1,9 +1,8 @@
 // ---------------------------
-// @Author: @lyhourchhen
-// @Email: chhenlyhour@gmail.com
-// @Date: 6/9/20 / 9:40 AM
-// @Project: akara-app
-// @Objective: Component to render CreditCard UI
+// @author: @lyhourchhen
+// @email: chhenlyhour@gmail.com
+// @date: 6/9/20 / 9:40 AM
+// @objective: Component to render CreditCard UI
 // --------------------------
 
 import 'package:flutter/material.dart';
