@@ -2,7 +2,7 @@
 // @author: @lyhourchhen
 // @email: chhenlyhour@gmail.com
 // @date: 6/9/20 / 9:40 AM
-// @objective: Component to render CreditCard UI
+// @objective: component to render CreditCard UI
 // --------------------------
 
 import 'package:flutter/material.dart';
