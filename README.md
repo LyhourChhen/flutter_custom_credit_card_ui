@@ -34,15 +34,6 @@ CustomCreditCard(
 
 ```
 
-## Todo
-
- - [x]  Pusblished to pub.dev.
- - [x] How to use?
- - [x] Library changelog.
- - [ ] Widely adjustment like positioning and ui.
-
-
-
 ## Author
 - [**@LyhourChhen**](https://t.me/lyhourchhen)
 - **2020**
